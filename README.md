@@ -8,10 +8,6 @@ Defaultable is pure CommonJS Javascript, and is also available as an NPM module.
 
     $ npm install defaultable
 
-## Is it any good?
-
-Yes.
-
 ## What your users see
 
 With Defaultable, these are the promises you make to your users (in documentation, presentations, etc.)
